@@ -24,7 +24,7 @@ Each folder includes its own README with installation instructions.
 ## Support
 
 - 🌐 [payments.renovax.net](https://payments.renovax.net)
-- 🐙 [github.com/renovax](https://github.com/renovax)
+- 🐙 [github.com/frankl1m/renovaxpayments-integrations](https://github.com/frankl1m/renovaxpayments-integrations)
 
 ---
 
@@ -54,4 +54,4 @@ Cada carpeta incluye su propio README con instrucciones de instalación.
 ## Soporte
 
 - 🌐 [payments.renovax.net](https://payments.renovax.net)
-- 🐙 [github.com/renovax](https://github.com/renovax)
+- 🐙 [github.com/frankl1m/renovaxpayments-integrations](https://github.com/frankl1m/renovaxpayments-integrations)

@@ -6,7 +6,7 @@ en el checkout hosted de RENOVAX (Crypto, Stripe, PayPal, PIX, Mercado
 Pago, etc.) y la transacción se cierra automáticamente en Saleor.
 
 > ⚠️ **Esto es código de ejemplo**. La versión oficial mantenida vive en
-> [github.com/renovax/renovaxpayments-integrations/tree/main/saleor](https://github.com/renovax/renovaxpayments-integrations/tree/main/saleor).
+> [github.com/frankl1m/renovaxpayments-integrations/tree/main/saleor](https://github.com/frankl1m/renovaxpayments-integrations/tree/main/saleor).
 > Descarga siempre la última antes de instalar en producción.
 
 ---

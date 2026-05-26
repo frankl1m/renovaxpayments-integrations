@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       RENOVAX Payments for WooCommerce
- * Plugin URI:        https://github.com/renovax/woocommerce-plugin
+ * Plugin URI:        https://github.com/frankl1m/renovaxpayments-integrations/tree/main/woocommerce
  * Description:       Multi-platform payment gateway: Crypto (USDT, USDC, EURC, DAI on BSC, Ethereum, Polygon, Arbitrum, Base, Optimism, Avalanche, Tron, Solana...), Stripe (cards), PayPal and more — all behind a single checkout.
  * Version:           1.0.0
  * Author:            RENOVAX
